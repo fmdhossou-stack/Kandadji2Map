@@ -1,5 +1,0 @@
-{
-  "name": "Kandadji2 Field Map",
-  "description": "Application de cartographie terrain pour le site Kandadji2 au Niger.",
-  "requestFramePermissions": ["geolocation"]
-}
